@@ -76,12 +76,15 @@
     고가용성을 바탕으로한 인프라 구축 및 지속적인 모니터링이 가능한 인프라 구축
 ```
 
+### [Infra](https://github.com/signaturejinn/GCP_3-Tier_Infra/tree/main/Infra)
+
+### [Test/Monitoring](https://github.com/signaturejinn/GCP_3-Tier_Infra/blob/main/Test/Monitoring/README.md)
+
 </br>
 
 ## ⛓️ 구축 과정
 ### 🔗 Notion Link
 #### - [GCP 3-Tier Project](https://glen-party-257.notion.site/GCP-3-Tier-Project-a565d6c1e8d54283b498d73592043545)
 
-### 🔗 Git Link
-#### - [GCP_3-Tier_Infra](https://github.com/signaturejinn/GCP_3-Tier_Infra/tree/main/GCP_3-Tier)
+
 
