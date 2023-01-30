@@ -84,7 +84,7 @@
 
 ## ⛓️ 구축 과정
 ### 🔗 Notion Link
-#### - [GCP 3-Tier Project](https://glen-party-257.notion.site/GCP-3-Tier-Project-a565d6c1e8d54283b498d73592043545)
+### - [GCP 3-Tier Project](https://glen-party-257.notion.site/GCP-3-Tier-Project-a565d6c1e8d54283b498d73592043545)
 
 
 
