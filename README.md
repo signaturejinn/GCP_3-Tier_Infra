@@ -33,6 +33,29 @@
 
 </br>
 
+## ⛓️ 구축 과정
+### 🔗 Notion Link
+#### - [GCP 3-Tier Project](https://glen-party-257.notion.site/GCP-3-Tier-Project-a565d6c1e8d54283b498d73592043545)
+
+### 🔗 Git Link
+#### - 
+
+</br>
+
+## 🙋🏻‍♂️ 담당 업무
+- VPC 구성
+- 보안 그룹 구성
+- IAM & IAP | 접근 권한 관리
+- Web, WAS, DB 구성 및 연동
+- Cloud SQL | MySQL 8.0
+- Cloud DNS를 활용해 HTTPS 리다이렉션 구성 및 SSL 인증서 추가
+- Cloud CDN을 활용한 캐싱
+- Internal LB & External LB 구축
+- Cloud Monitoring을 활용한 지속적인 모니터링 구현
+- Cloud Storage를 활용한 캐싱 데이터 저장
+
+</br>
+
 ## 📝 상세 내용 
 ### 📌 Infra Architecture
 ![GCP_3-Tier Archi](https://user-images.githubusercontent.com/117608997/215586587-744e29e8-8cd3-46c4-92ec-9ece0faee6e3.jpg)
@@ -55,25 +78,8 @@
     User는 도메인을 통한 접근으로 웹서비스 이용
 ```
 
-</br>
+### 요구 사항
+![image](https://user-images.githubusercontent.com/117608997/215590440-a27d9469-42d4-4775-ab53-d5c7f1095402.png)
 
-## ⛓️ 구축 과정
-### 🔗 Notion Link
-#### - [GCP 3-Tier Project](https://glen-party-257.notion.site/GCP-3-Tier-Project-a565d6c1e8d54283b498d73592043545)
-
-### 🔗 Git Link
-#### - 
-
-</br>
-
-## 🙋🏻‍♂️ 담당 업무
-- VPC 구성
-- 보안 그룹 구성
-- IAM & IAP | 접근 권한 관리
-- Web, WAS, DB 구성 및 연동
-- Cloud SQL | MySQL 5.7
-- Cloud DNS를 활용해 HTTPS 리다이렉션 구성 및 SSL 인증서 추가
-- Cloud CDN을 활용한 캐싱
-- Internal LB & External LB 구축
-- Cloud Monitoring을 활용한 지속적인 모니터링 구현
-- Cloud Storage를 활용한 캐싱 데이터 저장
+### 구성
+- vpc
