@@ -12,8 +12,8 @@
 </br>
 
 - 보호자, 반려동물, 예약 DB 등록
-
-![image](https://user-images.githubusercontent.com/117608997/215597625-2e4087a1-fe2c-4ffd-9529-80308d63a1c7.png
+- 
+![image](https://user-images.githubusercontent.com/117608997/215597625-2e4087a1-fe2c-4ffd-9529-80308d63a1c7.png)
 ![image](https://user-images.githubusercontent.com/117608997/215597724-2d41289c-9a6a-4bec-9117-f951fce20160.png)
 ![image](https://user-images.githubusercontent.com/117608997/215597942-06ebffab-71c5-4c50-9400-e4f7eb422bfe.png)
 
@@ -41,7 +41,7 @@
 
 ![image](https://user-images.githubusercontent.com/117608997/215598562-74163a36-bf3f-43f0-b632-1d78440d0977.png)
 ```
-Cloud Monitoring 대시보드를 통해 기존 2개였던 인스턴스가 6개까지 증가한 것을 확인할 수 있음
+Cloud Monitoring 대시보드를 통해 인스턴스와 Cloud SQL의 CPU 사용량과 메모리 사용량을 모니터링할 수 있도록 구성
 ```
 
 </br>
@@ -50,7 +50,7 @@ Cloud Monitoring 대시보드를 통해 기존 2개였던 인스턴스가 6개�
 
 ![image](https://user-images.githubusercontent.com/117608997/215598843-93518924-b561-454e-a10f-dbf0f7200f0d.png)
 ```
-Google Mail을 통해 실시간 Alert를 받을 수 있고 실시간 모니터링이 가능
+Google Mail을 통해 Alert를 받을 수 있고 실시간 모니터링이 가능
 ```
 
  
