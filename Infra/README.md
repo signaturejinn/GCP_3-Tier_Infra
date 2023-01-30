@@ -65,6 +65,7 @@ Instance Group을 통해 Auto Scaling 관리
 ![image](https://user-images.githubusercontent.com/117608997/215595578-23693bc1-84fb-43a1-970b-def0fe3eefb4.png)
 ```
 Cloud DNS 서비스를 활용한 도메인 접속 관리
+구글 완전관리형 인증서 추가 및 HTTPS 리디렉션
 ```
 </br>
 
