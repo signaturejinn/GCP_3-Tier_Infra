@@ -25,7 +25,7 @@
 <img src="https://img.shields.io/badge/Rocky Linux-10B981?style=for-the-badge&logo=Rocky Linux&logoColor=white"> <!--rocky linux-->
 
 #### DB
-<img src="https://img.shields.io/badge/mysql 8.0-4479A1?style=for-the-badge&logo=mysql&logoColor=white">  <!--mysql-->
+<img src="https://img.shields.io/badge/mysql 5.7/8.0-4479A1?style=for-the-badge&logo=mysql&logoColor=white">  <!--mysql-->
 
 #### Team Collabolation Tool
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> <!--Notion-->
@@ -76,3 +76,4 @@
 - Cloud CDN을 활용한 캐싱
 - Internal LB & External LB 구축
 - Cloud Monitoring을 활용한 지속적인 모니터링 구현
+- Cloud Storage를 활용한 캐싱 데이터 저장
