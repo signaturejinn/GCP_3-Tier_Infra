@@ -77,8 +77,10 @@
 ```
 
 ### - [Infra](https://github.com/signaturejinn/GCP_3-Tier_Infra/tree/main/Infra)
+- [Web page 접속](https://www.youtube.com/watch?v=65otWWli8Bo)
 
 ### - [Test/Monitoring](https://github.com/signaturejinn/GCP_3-Tier_Infra/blob/main/Test/Monitoring/README.md)
+- [Jmeter 부하 Test](https://youtu.be/YRAJHgAo0ZM)
 
 </br>
 
