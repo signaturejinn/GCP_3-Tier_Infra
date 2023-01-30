@@ -48,7 +48,7 @@ Instance Group을 통해 Auto Scaling 관리
 ### - Internal Load Balancer 
 ![image](https://user-images.githubusercontent.com/117608997/215595113-5dcac99e-cb66-42d0-8783-63ba6afa3917.png)
 ```
-리전 내부 TCP L/B 서비스를 활용한 네트워크 내부 부하분산 관리
+리전 내부 TCP LB 서비스를 활용한 네트워크 내부 부하분산 관리
 ```
 
 </br>
@@ -56,7 +56,7 @@ Instance Group을 통해 Auto Scaling 관리
 ### - External Load Balancer
 ![image](https://user-images.githubusercontent.com/117608997/215595396-01bdec88-474c-416f-a826-629581f557e4.png)
 ```
-전역 외부 HTTP(S) L/B 서비스를 활용한 네트 워크 외부 부하분산 관리
+전역 외부 HTTP(S) LB 서비스를 활용한 네트워크 외부 부하분산 관리
 ```
 
 </br>
