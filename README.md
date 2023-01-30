@@ -1,10 +1,9 @@
-# GCP_3-Tier_Infra
-``` 
-- GCP 서비스를 활용한 3-Tier Petclinic Web Service 인프라 구축
-- Apache Web server 구축
-- 내장 Apache Tomcat Was Server 구축
-- Cloud Monitoring을 활용해 지속적인 모니터링
-```
+## GCP_3-Tier_Infra
+### - GCP 서비스를 활용한 3-Tier Petclinic Web Service 인프라 구축
+### - Apache Web server 구축
+### - 내장 Apache Tomcat Was Server 구축
+### - Cloud Monitoring을 활용해 지속적인 모니터링
+
 </br>
 
 ## 🗓️ 진행 기간
