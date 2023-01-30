@@ -1,7 +1,7 @@
 ## Infra 세부 사항
 ### - VPC
 - VPC & Subnet
-</br>
+
 ![image](https://user-images.githubusercontent.com/117608997/215594116-57086de6-dfd8-49cb-b481-0eb880002272.png)
 
 </br>
