@@ -76,9 +76,9 @@
     고가용성을 바탕으로한 인프라 구축 및 지속적인 모니터링이 가능한 인프라 구축
 ```
 
-### [Infra](https://github.com/signaturejinn/GCP_3-Tier_Infra/tree/main/Infra)
+### - [Infra](https://github.com/signaturejinn/GCP_3-Tier_Infra/tree/main/Infra)
 
-### [Test/Monitoring](https://github.com/signaturejinn/GCP_3-Tier_Infra/blob/main/Test/Monitoring/README.md)
+### - [Test/Monitoring](https://github.com/signaturejinn/GCP_3-Tier_Infra/blob/main/Test/Monitoring/README.md)
 
 </br>
 
