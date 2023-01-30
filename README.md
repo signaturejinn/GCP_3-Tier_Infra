@@ -33,15 +33,6 @@
 
 </br>
 
-## ⛓️ 구축 과정
-### 🔗 Notion Link
-#### - [GCP 3-Tier Project](https://glen-party-257.notion.site/GCP-3-Tier-Project-a565d6c1e8d54283b498d73592043545)
-
-### 🔗 Git Link
-#### - 
-
-</br>
-
 ## 🙋🏻‍♂️ 담당 업무
 - VPC 구성
 - 보안 그룹 구성
@@ -67,8 +58,9 @@
 ### 📌 Admin Architecture
 ![GCP_3-Tier admin_Archi](https://user-images.githubusercontent.com/117608997/215586606-45eb6bf8-e740-4ab9-b79b-07f742850f0c.jpg)
 ```
-    Admin은 Cloud IAP를 통해 Web, Was서버를 관리하고 Bastion을 통해
-    Cloud SQL DB를 관리
+    Admin은 Cloud IAP를 통해 Web, Was서버를 관리하고 Bastion을 통해 DB 관리
+    Cloud SQL을 활용해 DB를 서버를 구축하고 이중화를 통해 고가용성 인프라 구축
+    Cloud Monitoring을 활용한 지속적인 모니터링
 ```
 </br>
 
@@ -80,6 +72,16 @@
 
 ### 요구 사항
 ![image](https://user-images.githubusercontent.com/117608997/215590440-a27d9469-42d4-4775-ab53-d5c7f1095402.png)
+'''
+    고가용성을 바탕으로한 인프라 구축 및 지속적인 모니터링이 가능한 인프라 구축
+'''
 
-### 구성
-- vpc
+</br>
+
+## ⛓️ 구축 과정
+### 🔗 Notion Link
+#### - [GCP 3-Tier Project](https://glen-party-257.notion.site/GCP-3-Tier-Project-a565d6c1e8d54283b498d73592043545)
+
+### 🔗 Git Link
+#### - [GCP_3-Tier_Infra](https://github.com/signaturejinn/GCP_3-Tier_Infra/tree/main/GCP_3-Tier)
+
