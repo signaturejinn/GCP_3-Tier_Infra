@@ -1,16 +1,19 @@
 ## Infra 세부 사항
 ### - VPC
 - VPC & Subnet
+
 ![image](https://user-images.githubusercontent.com/117608997/215594116-57086de6-dfd8-49cb-b481-0eb880002272.png)
 
 </br>
 
 - Firewall
+
 ![image](https://user-images.githubusercontent.com/117608997/215594180-a4d94adc-11b5-43f5-94fb-ddcc8fcd3bcd.png)
 
 </br>
 
 - Cloud SQL
+
 ![image](https://user-images.githubusercontent.com/117608997/215594232-a78f87f3-b202-4c2e-a83f-99dbfbf5addf.png)
 ```
 가용영역 이중화를 통한 고가용성
@@ -18,6 +21,7 @@
 </br>
 
 - Compute Engine
+
 ![image](https://user-images.githubusercontent.com/117608997/215594320-aed7686c-146c-4e81-85dd-0a666c998f9a.png)
 ```
 네트워크 태그로 Web/Was 방화벽 관리
