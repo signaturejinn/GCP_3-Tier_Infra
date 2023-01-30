@@ -1,5 +1,5 @@
 ## GCP_3-Tier_Infra
-### - GCP 서비스를 활용한 3-Tier Petclinic Web Service 인프라 구축
+### - GCP 서비스를 활용한 3-Tier Petclinic 웹 서비스 인프라 구축
 ### - Apache Web server 구축
 ### - 내장 Apache Tomcat Was Server 구축
 ### - Cloud Monitoring을 활용해 지속적인 모니터링
@@ -44,7 +44,8 @@
 ### 📌 Admin Architecture
 ![GCP_3-Tier admin_Archi](https://user-images.githubusercontent.com/117608997/215586606-45eb6bf8-e740-4ab9-b79b-07f742850f0c.jpg)
 ```
-    Admin은 Cloud IAP를 통해 Web, Was서버를 관리하고 Bastion을 통해 Cloud SQL DB를 관리
+    Admin은 Cloud IAP를 통해 Web, Was서버를 관리하고 Bastion을 통해
+    Cloud SQL DB를 관리
 ```
 </br>
 
