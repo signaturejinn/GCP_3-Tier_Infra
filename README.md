@@ -1,5 +1,5 @@
 ## GCP를 활용한 Petclinic 예약 웹 서비스
-### - GCP 서비스를 활용한 3-Tier Petclinic 웹 서비스 인프라 구축
+### - GCP 서비스를 활용한 Petclinic 웹 서비스 인프라 구축
 ### - Apache Web server 구축
 ### - Apache Tomcat Was Server 구축
 ### - Cloud Monitoring을 활용해 지속적인 모니터링
