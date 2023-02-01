@@ -90,13 +90,13 @@
 
 </br>
 
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/117608997/215984714-70b815e9-62cc-4d30-8700-c691d1dc3ad1.gif)
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/117608997/215984721-e3ed0c08-ad08-49f4-bc1a-7a06d6ee2653.gif)
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/117608997/215986339-b08c4f82-9368-4dc0-8c3b-909faabf8a11.gif)
+
+</br>
 
 #### - [Test/Monitoring](https://github.com/signaturejinn/GCP_3-Tier_Infra/blob/main/Test/Monitoring/README.md)
 - [Jmeter 부하 Test](https://youtu.be/YRAJHgAo0ZM)
 
 </br>
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/117608997/215985570-0919439c-fa76-4c1b-b3ed-a679163c0781.gif)
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/117608997/215985636-f0048a2c-0d2b-4451-b22d-d96e106404ac.gif)
