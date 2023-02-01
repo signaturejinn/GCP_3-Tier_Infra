@@ -87,11 +87,17 @@
 ### 🔗 Git Link
 #### - [Infra](https://github.com/signaturejinn/GCP_3-Tier_Infra/tree/main/Infra)
 - [Web page 접속](https://www.youtube.com/watch?v=65otWWli8Bo)
+
+</br>
+
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/117608997/215984714-70b815e9-62cc-4d30-8700-c691d1dc3ad1.gif)
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/117608997/215984721-e3ed0c08-ad08-49f4-bc1a-7a06d6ee2653.gif)
 
 #### - [Test/Monitoring](https://github.com/signaturejinn/GCP_3-Tier_Infra/blob/main/Test/Monitoring/README.md)
 - [Jmeter 부하 Test](https://youtu.be/YRAJHgAo0ZM)
+
+</br>
+
 ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/117608997/215985032-33f04674-0932-49a7-933b-28b33de89b62.gif)
 ![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/117608997/215985043-f3405f53-e0ec-4dc4-a3d5-3bbc825eed60.gif)
 
