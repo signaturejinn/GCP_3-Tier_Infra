@@ -82,7 +82,7 @@
 
 ## ⛓️ 구축 과정
 ### 🔗 Notion Link
-#### - [GCP 3-Tier Project](https://glen-party-257.notion.site/AWS-3-ac7369bd7a7e4a4ab9dd8580c054e7e3)
+#### - [GCP 3-Tier Project](https://glen-party-257.notion.site/GCP-3-Tier-45aa9757dff04334bc25a0c03d925c62)
 
 ### 🔗 Git Link
 #### - [Infra](https://github.com/signaturejinn/GCP_3-Tier_Infra/tree/main/Infra)
