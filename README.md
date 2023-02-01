@@ -17,20 +17,20 @@
 </br>
 
 ## ⚙️ 사용 기술
-### CSP
+#### CSP
 <img src="https://img.shields.io/badge/Google GCP-4285F4?style=for-the-badge&logo=Google Cloud&logoColor=white"> <!--gcp-->
 
-### OS
+#### OS
 <img src="https://img.shields.io/badge/CentOS 7-262577?style=for-the-badge&logo=CentOS&logoColor=white"> <!--CentOS-->
 <img src="https://img.shields.io/badge/Rocky Linux-10B981?style=for-the-badge&logo=Rocky Linux&logoColor=white"> <!--rocky linux-->
 
-### DB
+#### DB
 <img src="https://img.shields.io/badge/mysql 8.0-4479A1?style=for-the-badge&logo=mysql&logoColor=white">  <!--mysql-->
 
-### Team Collabolation Tool
+#### Team Collabolation Tool
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> <!--Notion-->
 
-### Architecture Drawing Tool
+#### Architecture Drawing Tool
 <img src="https://img.shields.io/badge/Drawio-000000?style=for-the-badge&logo=Drawio&logoColor=white"> <!--Draw.io-->
 
 </br>
