@@ -98,7 +98,5 @@
 
 </br>
 
-![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/117608997/215985032-33f04674-0932-49a7-933b-28b33de89b62.gif)
-![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/117608997/215985043-f3405f53-e0ec-4dc4-a3d5-3bbc825eed60.gif)
-
-
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/117608997/215985570-0919439c-fa76-4c1b-b3ed-a679163c0781.gif)
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/117608997/215985636-f0048a2c-0d2b-4451-b22d-d96e106404ac.gif)
