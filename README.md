@@ -17,20 +17,20 @@
 </br>
 
 ## ⚙️ 사용 기술
-#### CSP
+### CSP
 <img src="https://img.shields.io/badge/Google GCP-4285F4?style=for-the-badge&logo=Google Cloud&logoColor=white"> <!--gcp-->
 
-#### OS
+### OS
 <img src="https://img.shields.io/badge/CentOS 7-262577?style=for-the-badge&logo=CentOS&logoColor=white"> <!--CentOS-->
 <img src="https://img.shields.io/badge/Rocky Linux-10B981?style=for-the-badge&logo=Rocky Linux&logoColor=white"> <!--rocky linux-->
 
-#### DB
-<img src="https://img.shields.io/badge/mysql 5.7/8.0-4479A1?style=for-the-badge&logo=mysql&logoColor=white">  <!--mysql-->
+### DB
+<img src="https://img.shields.io/badge/mysql 8.0-4479A1?style=for-the-badge&logo=mysql&logoColor=white">  <!--mysql-->
 
-#### Team Collabolation Tool
+### Team Collabolation Tool
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> <!--Notion-->
 
-#### Architecture Draw Tool
+### Architecture Drawing Tool
 <img src="https://img.shields.io/badge/Drawio-000000?style=for-the-badge&logo=Drawio&logoColor=white"> <!--Draw.io-->
 
 </br>
@@ -87,7 +87,12 @@
 ### 🔗 Git Link
 #### - [Infra](https://github.com/signaturejinn/GCP_3-Tier_Infra/tree/main/Infra)
 - [Web page 접속](https://www.youtube.com/watch?v=65otWWli8Bo)
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/117608997/215984714-70b815e9-62cc-4d30-8700-c691d1dc3ad1.gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/117608997/215984721-e3ed0c08-ad08-49f4-bc1a-7a06d6ee2653.gif)
 
 #### - [Test/Monitoring](https://github.com/signaturejinn/GCP_3-Tier_Infra/blob/main/Test/Monitoring/README.md)
 - [Jmeter 부하 Test](https://youtu.be/YRAJHgAo0ZM)
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/117608997/215985032-33f04674-0932-49a7-933b-28b33de89b62.gif)
+![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/117608997/215985043-f3405f53-e0ec-4dc4-a3d5-3bbc825eed60.gif)
+
 
