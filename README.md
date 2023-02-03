@@ -82,10 +82,10 @@
 
 ## ⛓️ 구축 과정
 ### 🔗 Notion Link
-#### - [GCP 3-Tier Project](https://glen-party-257.notion.site/GCP-3-Tier-45aa9757dff04334bc25a0c03d925c62)
+#### - [GCP 3-Tier Project](https://glen-party-257.notion.site/GCP-3-Tier-Project-a565d6c1e8d54283b498d73592043545)
 
 ### 🔗 Git Link
-#### - [Infra](https://github.com/signaturejinn/GCP_3-Tier_Infra/tree/main/Infra)
+#### - [Infra](https://github.com/signaturejinn/GCP_Infra_Semi/tree/main/Infra)
 - [Web page 접속](https://www.youtube.com/watch?v=65otWWli8Bo)
 
 </br>
@@ -94,7 +94,7 @@
 
 </br>
 
-#### - [Test/Monitoring](https://github.com/signaturejinn/GCP_3-Tier_Infra/blob/main/Test/Monitoring/README.md)
+#### - [Test/Monitoring](https://github.com/signaturejinn/GCP_Infra_Semi/tree/main/Test/Monitoring)
 - [Jmeter 부하 Test](https://youtu.be/YRAJHgAo0ZM)
 
 </br>
