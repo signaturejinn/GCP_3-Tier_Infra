@@ -67,7 +67,7 @@
 </br>
 
 ### 📌 User Architecture
-![GCP_3-Tier admin_User_Archi](https://user-images.githubusercontent.com/117608997/215586615-9d756b33-cdee-429f-96b0-f2fe8c9b16cd.jpg)
+![image](https://user-images.githubusercontent.com/117608997/216554659-44359dbe-652f-4c92-b540-1577ae315c27.png)
 ```
     User는 도메인을 통한 접근으로 웹서비스 이용
 ```
