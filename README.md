@@ -58,7 +58,7 @@
 </br>
 
 ### 📌 Admin Architecture
-![GCP_3-Tier admin_Archi](https://user-images.githubusercontent.com/117608997/215586606-45eb6bf8-e740-4ab9-b79b-07f742850f0c.jpg)
+![image](https://user-images.githubusercontent.com/117608997/216553868-cf734345-87ef-4be3-9a11-ce5bce048800.png)
 ```
     Admin은 Cloud IAP를 통해 Web, Was서버를 관리하고 Bastion을 통해 DB 관리
     Cloud SQL을 활용해 DB를 서버를 구축하고 이중화를 통해 고가용성 인프라 구축
