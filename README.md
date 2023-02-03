@@ -51,7 +51,7 @@
 
 ## 📝 상세 내용 
 ### 📌 Infra Architecture
-![GCP_3-Tier Archi](https://user-images.githubusercontent.com/117608997/215586587-744e29e8-8cd3-46c4-92ec-9ece0faee6e3.jpg)
+![image](https://user-images.githubusercontent.com/117608997/216552572-a28f3d6d-d775-49fc-b2d6-ad99575673f8.png)
 ```
     Petclinic 소스 코드를 활용해 GCP 서비스로 3-Tier 인프라 구축
 ```
